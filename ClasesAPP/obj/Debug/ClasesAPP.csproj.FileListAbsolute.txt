@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\Fac2021\Digitalers\clases_y_objeto\ClasesAPP\ClasesAPP\bin\Debug\ClasesAPP.exe.config
+C:\Users\HP\Desktop\Fac2021\Digitalers\clases_y_objeto\ClasesAPP\ClasesAPP\bin\Debug\ClasesAPP.exe
+C:\Users\HP\Desktop\Fac2021\Digitalers\clases_y_objeto\ClasesAPP\ClasesAPP\bin\Debug\ClasesAPP.pdb
+C:\Users\HP\Desktop\Fac2021\Digitalers\clases_y_objeto\ClasesAPP\ClasesAPP\obj\Debug\ClasesAPP.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Fac2021\Digitalers\clases_y_objeto\ClasesAPP\ClasesAPP\obj\Debug\ClasesAPP.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Fac2021\Digitalers\clases_y_objeto\ClasesAPP\ClasesAPP\obj\Debug\ClasesAPP.exe
+C:\Users\HP\Desktop\Fac2021\Digitalers\clases_y_objeto\ClasesAPP\ClasesAPP\obj\Debug\ClasesAPP.pdb
