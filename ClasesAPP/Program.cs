@@ -26,6 +26,8 @@ namespace ClasesAPP
             Console.WriteLine("El DNI es: {0}", p3.getDni());
 
             Console.ReadKey();
+            ////7
+            //RAMA OOP2
         }
     }
 }
