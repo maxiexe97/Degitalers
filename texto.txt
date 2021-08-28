@@ -1,0 +1,4 @@
+nombre
+apellido
+dni
+domicilio
