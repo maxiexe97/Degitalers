@@ -43,13 +43,26 @@ namespace ClasesAPP
             return edad;
         }
 
+      
+        public Persona()
+        {
+            Console.WriteLine("Entrada al constructor vacío");
+        }
+
         public Persona(string dni_param)
         {
             dni = dni_param;
+            Console.WriteLine("Entrada al constructor con DNI");
         }
 
-
-
+        public Persona(string dni_param, int edad_param)
+        {
+            Console.WriteLine("Entrada al constructor con DNI y EDAD");
+        }
+        public Persona(int edad_param, string dni_param)
+        {
+            Console.WriteLine("Entrada al constructor con EDAD y DNI");
+        }
 
 
     }
