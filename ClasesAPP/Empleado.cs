@@ -10,7 +10,6 @@ namespace ClasesAPP
     {
         public string Nombre { get; set; }
         public int Legajo { get; set; }
-
         protected double Sueldo;
 
         public virtual void setSueldo(double s)
@@ -21,6 +20,12 @@ namespace ClasesAPP
         {
             return Sueldo;
         }
+
+        public virtual string MetodoPadre()
+        {
+            return "Hola ";
+        }
+
 
         public void Trabajar()
         {
