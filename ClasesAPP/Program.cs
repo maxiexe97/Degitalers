@@ -38,10 +38,19 @@ namespace ClasesAPP
             //en Program.cs
             //ClaseB cb1 = new ClaseB(12);
             //ClaseB cb2 = new ClaseB(" Saludos! ");
-            ClaseB cb2 = new ClaseB(1234,"CadenaLoca");
-
+            //ClaseB cb2 = new ClaseB(1234,"CadenaLoca");
 
             //ClaseB cb3 = new ClaseB(3.14);
+
+            ClaseB cb = new ClaseB(6655);
+            ClaseC cc = new ClaseC();
+
+            cb.AttrC = cc;
+            cb.AttrC.imprimirMensaje();
+
+            
+
+            //Console.WriteLine(cb.AttrC);
 
 
             Console.ReadKey();
